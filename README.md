@@ -18,7 +18,7 @@
 
 ## :rocket: Sobre os desafios
 
-:book: Desafios finalizados da Trilha React, do Ignite
+:book: Repositório contendo os projetos e desafios finalizados durante a Trilha React, do Ignite.
 
 <br>
 
@@ -34,7 +34,7 @@ Nesse desafio, o principal objetivo é desenvolver uma pequena aplicação de at
 
 ## :memo: Desafio 02 - Componentizando a aplicação
 
-:book: Nesse desafio, o principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero.
+Nesse desafio, o principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero.
 
 <p align="center">
   <img src=".github/2.gif" width="800" alt="TrilhaReact" >
@@ -44,7 +44,7 @@ Nesse desafio, o principal objetivo é desenvolver uma pequena aplicação de at
 
 ## :memo: Desafio 03 - Criando um Hook de carrinho de Compras
 
-:book: Nesse desafio, o principal objetivo é criar um hook para gerenciar um carrinho de compras.
+Nesse desafio, o principal objetivo é criar um hook para gerenciar um carrinho de compras.
 
 <p align="center">
   <img src=".github/3.gif" width="800" alt="TrilhaReact" >
@@ -54,7 +54,7 @@ Nesse desafio, o principal objetivo é desenvolver uma pequena aplicação de at
 
 ## :memo: Desafio 04 - Refactoring classes para Typescript e de Class Components para Function Components.
 
-:book: Nesse desafio, o principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
+Nesse desafio, o principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
 <p align="center">
   <img src=".github/4.gif" width="800" alt="TrilhaReact" >
