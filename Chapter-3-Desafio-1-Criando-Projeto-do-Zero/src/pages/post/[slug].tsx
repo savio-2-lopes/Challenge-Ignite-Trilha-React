@@ -69,7 +69,7 @@ export default function Post({ post }: PostProps) {
 
       <Header />
 
-      <img src="/teste.png" alt="banner" className={styles.banner} />
+      <img src={post.data.banner.url} alt="banner" className={styles.banner} />
       <main className={commonStyles.container}>
         <article className={styles.post}>
           <h1>{post.data.title}</h1>

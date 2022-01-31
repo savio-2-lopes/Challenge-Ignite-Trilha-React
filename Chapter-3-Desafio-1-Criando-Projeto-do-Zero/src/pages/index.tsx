@@ -1,7 +1,8 @@
-import { useState } from 'react';
-import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
+
+import { useState } from 'react';
+import { GetStaticProps } from 'next';
 
 import { FiCalendar, FiUser } from 'react-icons/fi';
 
@@ -78,11 +79,13 @@ export default function Home({ postsPagination }: HomeProps): JSX.Element {
               <a>
                 <strong>{post.data.title}</strong>
                 <p>{post.data.subtitle}</p>
+
                 <div className={commonStyles.info}>
                   <time>
                     <FiCalendar />
                     {post.first_publication_date}
                   </time>
+
                   <span>
                     <FiUser />
                     {post.data.author}
