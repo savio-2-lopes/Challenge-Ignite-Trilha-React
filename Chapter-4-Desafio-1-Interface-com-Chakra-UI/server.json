@@ -1,0 +1,154 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "Europa",
+      "description": "Conheça o continente mais antigo.",
+      "full_description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "slug": "europe",
+      "link": "continents/europe",
+      "image": "continents/europe.svg",
+      "countries": 50,
+      "cities": 100,
+      "languages": 24
+    },
+    {
+      "id": 2,
+      "name": "Ásia",
+      "full_description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+      "slug": "asia",
+      "link": "continents/asia",
+      "image": "continents/asia.jpg",
+      "countries": 50,
+      "cities": 34,
+      "languages": 2301
+    },
+    {
+      "id": 3,
+      "name": "África",
+      "full_description": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "slug": "africa",
+      "link": "continents/africa",
+      "image": "continents/africa.svg",
+      "countries": 54,
+      "cities": 50,
+      "languages": 2000
+    },
+    {
+      "id": 4,
+      "name": "América do Sul",
+      "full_description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano.",
+      "slug": "south-america",
+      "link": "continents/south-america",
+      "image": "continents/south-america.svg",
+      "countries": 13,
+      "cities": 36,
+      "languages": 456
+    },
+    {
+      "id": 5,
+      "name": "Oceania",
+      "full_description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico.",
+      "slug": "oceania",
+      "link": "continents/oceania",
+      "image": "continents/oceania.svg",
+      "countries": 14,
+      "cities": 6,
+      "languages": 1470
+    },
+    {
+      "id": 6,
+      "name": "América do Norte",
+      "full_description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano.",
+      "slug": "north-america",
+      "link": "continents/north-america",
+      "image": "continents/north-america.svg",
+      "countries": 4,
+      "cities": 28,
+      "languages": 256
+    }
+  ],
+
+  "cities": [
+    {
+      "id": "654c6131-2e4a-4036-91df-44cc0be4b68e",
+      "name": "Londres",
+      "country": "Reino Unido",
+      "flag": "flags/englad.png",
+      "image": "cities/londres.svg",
+      "continentId": 1
+    },
+    {
+      "id": "620f38a7-8d2c-4ae1-a457-273f254529ce",
+      "name": "Paris",
+      "country": "França",
+      "flag": "flags/france.svg",
+      "image": "cities/paris.svg",
+      "continentId": 1
+    },
+    {
+      "id": "f859e409-fe48-4979-a6fd-b1807795f161",
+      "name": "Roma",
+      "country": "Itália",
+      "flag": "flags/italy.svg",
+      "image": "cities/roma.svg",
+      "continentId": 1
+    },
+    {
+      "id": "1533bd8d-1227-3D1a-e1c1-3131331awegz",
+      "name": "Praga",
+      "country": "República Tcheca",
+      "flag": "flags/reptcheca.png",
+      "image": "cities/praga.svg",
+      "continentId": 1
+    },
+    {
+      "id": "0502ad8d-9997-4f3c-b2eb-63732f9bbedc",
+      "name": "Amsterdã",
+      "country": "Holanda",
+      "flag": "flags/holanda.png",
+      "image": "cities/amsterda.svg",
+      "continentId": 1
+    },
+    {
+      "id": "64bf53c2-2002-4ad7-a225-f4bc4e5e47d6",
+      "name": "Dubai",
+      "country": "Emirados Árabes",
+      "flag": "flags/united-arab-emirates.svg",
+      "image": "cities/dubai.jpg",
+      "continentId": 2
+    },
+    {
+      "id": "a9ac45b2-7eba-4909-879f-4ba1285c7fa9",
+      "name": "Sydney",
+      "country": "Austrália",
+      "flag": "flags/australia.svg",
+      "image": "cities/sydney.jpeg",
+      "continentId": 3
+    },
+    {
+      "id": "ce5f1601-371c-4cd6-9d6c-2fb6cc6efd45",
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "flag": "flags/peru.svg",
+      "image": "cities/machupichu.jpg",
+      "continentId": 4
+    },
+    {
+      "id": "40e90492-01dd-4ae6-b6c8-12e99c87afbd",
+      "name": "Orão",
+      "country": "Árgelia",
+      "flag": "flags/algeria.svg",
+      "image": "cities/orao.jpeg",
+      "continentId": 5
+    },
+    {
+      "id": "4655dfaa-4c0b-4666-b306-183b206a23fc",
+      "name": "Toronto",
+      "country": "Canadá",
+      "flag": "flags/canada.svg",
+      "image": "cities/toronto.jpg",
+      "continentId": 6
+    }
+  ]
+}
